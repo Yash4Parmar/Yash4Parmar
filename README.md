@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash4parmar&label=Profile%20views&color=0e75b6&style=flat" alt="yash4parmar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash4parmar" alt="yash4parmar" /></a> </p>
-
 - 🔭 I’m currently working on **Newsify-news app**
 
 - 🌱 I’m currently learning **Reactjs, node.js, express.js and many more frameworks**
